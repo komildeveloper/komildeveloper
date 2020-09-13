@@ -7,4 +7,4 @@
 - I like Coding and Football ⚽
 - I'm a huge LiverpoolFC fan 🔴🔴
 - I really like JS and its frameworks 
-- I like Node React, TypeScript and others 🔥
+- I like Node, React, TypeScript and others 🔥
