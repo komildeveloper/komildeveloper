@@ -2,7 +2,7 @@
 
 # WhoAmI?
 
-- My name is Komil and i'm 18 🧒🏻
+- My name is Komil and i'm 19 🧒🏻
 - I live in Tashkent capital of Uzbekistan 🇺🇿
 - I like Coding and Football ⚽
 - I'm a huge LiverpoolFC fan 🔴🔴
