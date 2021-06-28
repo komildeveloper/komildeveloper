@@ -8,3 +8,7 @@
 - I'm a huge LiverpoolFC fan 🔴🔴
 - I really like JS and its frameworks 🤙
 - I like Node, React, TypeScript and others 🔥
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komildeveloper&show_icons=true&theme=gotham" alt="komildeveloper" />
