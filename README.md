@@ -15,9 +15,9 @@
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC4XCFTMdAcXpkmqcGiVNXTQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://twitter.com/komil_developer">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/komil_developer?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/komil_developer?color=55960c&labelColor=179cf0&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/komildeveloper">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=1B1F23&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
@@ -96,5 +96,5 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Sobitov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=komildeveloper&show_icons=true&count_private=true&theme=gotham" alt="komildeveloper" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Developer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&langs_count=8&layout=compact&theme=gotham&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Developer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&langs_count=8&layout=compact&theme=gotham&border=true" height="192px"/></a>
 </details>
