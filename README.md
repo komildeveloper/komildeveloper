@@ -15,9 +15,9 @@
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC4XCFTMdAcXpkmqcGiVNXTQ?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://twitter.com/komil_developer">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/komil_developer?color=55960c&labelColor=179cf0&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/komil_developer?color=1DA1F2&labelColor=179cf0&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/komildeveloper">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=1B1F23&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=1155ba&labelColor=1B1F23&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
