@@ -100,4 +100,4 @@
 </details>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=komildeveloper&show_icons=true&theme=gotham" alt="komildeveloper" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&theme=gotham" alt="komildeveloper" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&theme=gotham&&layout=compact" alt="komildeveloper" />
