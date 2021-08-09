@@ -92,5 +92,7 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<div style="display: flex;">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Sobitov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=komildeveloper&show_icons=true&count_private=true&theme=gotham" alt="komildeveloper" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Developer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&langs_count=8&layout=compact&theme=gotham&border=true" height="192px"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Komil Developer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komildeveloper&langs_count=8&layout=compact&theme=gotham&border=true" height="192px"/></a>
+</div>
