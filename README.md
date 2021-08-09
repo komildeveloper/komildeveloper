@@ -17,7 +17,7 @@
   <a href="https://twitter.com/komil_developer">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/komil_developer?color=1DA1F2&labelColor=179cf0&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/komildeveloper">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=1155ba&labelColor=1B1F23&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/komildeveloper?color=282e33&labelColor=1B1F23&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
